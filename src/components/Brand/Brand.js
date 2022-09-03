@@ -10,7 +10,7 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-    <h1>Looduslaps</h1>
+    <h4>Looduslaps</h4>
     </div>
   );
 };
