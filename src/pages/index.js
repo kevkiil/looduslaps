@@ -39,19 +39,19 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          Siin e-poes presenteeritud toodete autoriks on {' '}
+          <span className={styles.gold}Nele Väljataga.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          Kodulehe loomisesse on oma panuse andnud <span className={styles.gold}>Kevin Kiil</span> ja tema ettevõte{' '}
+          <span className={styles.gold}>Kiili Kullaauk OÜ</span>
         </p>
       </div>
 
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Uusimad tooted'} />
           <ProductCollectionGrid />
         </Container>
       </div>
