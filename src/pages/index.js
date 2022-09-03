@@ -29,10 +29,10 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/banner1.png'}
-        title={'2 jumalatest kaksikut soovivad tuua su ellu puhtust ja sygelust jalge vahele'}
-        subtitle={'Luba nad oma ellu imelisteks muutusteks'}
-        ctaText={'Anneta jumalatele 1000€'}
+        image={'/nelejakevin.png'}
+        title={'Puhtad asjad otse loodusest'}
+        subtitle={'Luba neil puhastada sinu ümbrust ja kodu'}
+        ctaText={'POOD'}
         ctaAction={goToShop}
       />
 
