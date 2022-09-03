@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/nelejakevin.png'}
+        image={'/voh.png'}
         title={'Puhtad asjad otse loodusest'}
         subtitle={'Luba neil puhastada sinu ümbrust ja kodu'}
         ctaText={'POOD'}
