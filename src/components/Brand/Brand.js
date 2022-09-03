@@ -15,13 +15,14 @@ const Brand = (props) => {
           
     
      <svg
-        
+        width={127}
+        height={24}
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 127.67 23.36"
       >
 
 
-    <text x="50" y="250" font-family="Helvetica">Looduslaps</text>
+    <text x="127" y="24" font-family="Helvetica">Looduslaps</text>
 
 
       </svg>
