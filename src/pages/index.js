@@ -40,7 +40,7 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         <p>
           Siin e-poes presenteeritud toodete autoriks on {' '}
-          <span className={styles.gold}Nele Väljataga.</span>
+          <span className={styles.gold}Nele Väljataga</span>
         </p>
         <p>
           Kodulehe loomisesse on oma panuse andnud <span className={styles.gold}>Kevin Kiil</span> ja tema ettevõte{' '}
