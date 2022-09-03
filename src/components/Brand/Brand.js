@@ -10,7 +10,7 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-    Looduslaps
+    <h1>Looduslaps</h1>
     </div>
   );
 };
