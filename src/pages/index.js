@@ -30,7 +30,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Jumalal oli ka kaksik'}
+        title={'2 jumalatest kaksikut soovivad tuua su ellu puhtust ja sygelust jalge vahele'}
         subtitle={'Luba nad oma ellu imelisteks muutusteks'}
         ctaText={'Anneta jumalatele 1000€'}
         ctaAction={goToShop}
