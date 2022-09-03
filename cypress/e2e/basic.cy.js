@@ -5,6 +5,6 @@ describe('sample render test', () => {
 
   it('displays the title text', () => {
     cy.get('h2')
-    .contains('Essentials for a cold winter');
+    .contains('2 jumalatest kaksikut soovivad tuua su ellu puhtust ja sygelust jalge vahele');
   })
 }) 
