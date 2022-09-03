@@ -30,9 +30,9 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'2 naisjumalat loovad sinu ellu puhtust ja sügelust jalge vahele'}
-        subtitle={'Discover Autumn Winter 2021'}
-        ctaText={'shop now'}
+        title={'2 naisjumalat loovad sinu ellu puhtust ja sygelust jalge vahele'}
+        subtitle={'Luba nad oma ellu imelisteks muutusteks'}
+        ctaText={'Anneta jumalatele 1000€'}
         ctaAction={goToShop}
       />
 
