@@ -22,7 +22,7 @@ const Brand = (props) => {
       >
 
 
-    <text font-family="Helvetica">Looduslaps</text>
+    <text x="50" y="250" font-family="Helvetica">Looduslaps</text>
 
 
       </svg>
